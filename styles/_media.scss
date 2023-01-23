@@ -25,8 +25,8 @@
         padding-right: 0rem !important;
         width: 90%;
         margin: 0 auto;
-        .name{
-            font-size: 2.5rem !important;
+        h1.name{
+            font-size: 2rem !important;
             text-align: center;
             padding-top: 3rem;
         }
@@ -139,7 +139,7 @@
     }
 }
 
-@media screen and (max-width:1432px){
+@media screen and (max-width:900px){
     .container{
         padding: 2rem 11rem 7rem 11rem;
     }

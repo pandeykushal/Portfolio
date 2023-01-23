@@ -63,7 +63,7 @@ section {
   position: absolute;
   left: 0;
   top: 0;
-  padding: 3rem 18rem;
+  padding: 3rem 5rem;
 }
 
 .container {
@@ -648,7 +648,7 @@ section {
   overflow: hidden;
 }
 .main-btn .btn-text {
-  padding: 0 2rem;
+  padding: 0.5rem 2rem;
 }
 .main-btn .btn-icon {
   background-color: var(--color-secondary);
@@ -727,8 +727,8 @@ section {
     width: 90%;
     margin: 0 auto;
   }
-  .right-header .name {
-    font-size: 2.5rem !important;
+  .right-header h1.name {
+    font-size: 2rem !important;
     text-align: center;
     padding-top: 3rem;
   }
@@ -822,7 +822,7 @@ section {
     font-size: 2.3rem;
   }
 }
-@media screen and (max-width: 1432px) {
+@media screen and (max-width: 900px) {
   .container {
     padding: 2rem 11rem 7rem 11rem;
   }

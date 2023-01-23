@@ -63,7 +63,7 @@ section {
     position: absolute;
     left: 0;
     top: 0;
-    padding: 3rem 18rem;
+    padding: 3rem 5rem;
 }
 
 .container {
@@ -615,7 +615,7 @@ section {
     align-self: flex-start;
     align-items: center;
     overflow: hidden;
-    .btn-text { padding: 0 2rem; }
+    .btn-text { padding: .5rem 2rem; }
     .btn-icon {
         background-color: var(--color-secondary);
         display: flex;
